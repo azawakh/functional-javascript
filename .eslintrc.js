@@ -1,4 +1,5 @@
-const { resolve } = require("path");
+import { resolve } from "path";
+// const { resolve } = require("path");
 
 module.exports = {
   root: true,
